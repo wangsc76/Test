@@ -7,9 +7,7 @@ package com.czxy.test;
  */
 public class Test {
     public static void main(String[] args) {
-        系统。出。println（“测试03动作”）；
-        系统。出。println（“测试03动作”）；
-        系统。出。println（“测试03动作”）；
-            
+          System.out.println("test 测试开始");
+         
 
 }
